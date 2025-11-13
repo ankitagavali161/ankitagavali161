@@ -100,7 +100,7 @@ My approach blends DevOps leadership and deep technical implementation—using a
 
 ### End-to-End Data Lake on AWS S3, Glue, Athena, and QuickSight
 
-[![Watch the video](https://img.youtube.com/vi/74ayGG6SZLw/0.jpg)]([https://youtu.be/74ayGG6SZLw?t=1027](https://youtu.be/74ayGG6SZLw?si=o98SLl9ZdL9OTNx1&t=1149))
+[![Watch the video](https://img.youtube.com/vi/74ayGG6SZLw/0.jpg)](https://www.youtube.com/watch?v=74ayGG6SZLw)
 
 **Complete Data Lake pipeline** built on AWS, from ingestion to visualization with QuickSight.
 
