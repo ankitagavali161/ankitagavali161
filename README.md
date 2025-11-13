@@ -98,7 +98,7 @@ My approach blends DevOps leadership and deep technical implementation—using a
 
 ---
 
-### End-to-End Data Lake on AWS S3, Glue, Athena, and QuickSight
+### [End-to-End Data Lake on AWS S3, Glue, Athena, and QuickSight](https://www.youtube.com/watch?v=74ayGG6SZLw)
 
 [![Watch the video](https://img.youtube.com/vi/74ayGG6SZLw/0.jpg)](https://www.youtube.com/watch?v=74ayGG6SZLw)
 
